@@ -1,1 +1,46 @@
-
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    color: purple;
+}
+#name{
+    color: blue;
+}
+.country{
+    font-style: italic;
+}
+body{
+    background-color: grey;
+}
+#i{
+    color: orangered;
+}
+#n{
+    color: white;
+}
+#d{
+    color: blue;
+}
+#i2{
+    color: white;
+}
+#a{
+    color: green;
+}
+img{
+    width: 150px;ṭ
+    display: inline-block: ;
+}
+#div1{
+    float: left;
+    width: 30%;
+    box-sizing: border-box;
+}
+#div2{
+    float: right;
+    width: 70%;
+    box-sizing: border-box;
+    padding-left: 30%;
+}
